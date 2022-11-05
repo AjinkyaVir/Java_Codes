@@ -3,7 +3,7 @@ package palindromeString;
 public class PalindromeStringexampleOne {
 
 	public static void main(String[] args) {
-		//WAP to check given string is palndorme or not
+		//WAP to check given string is palindorme or not
 		/**
 		 * charAt() - This method used to write character at specified index value
 		 * 
